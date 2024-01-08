@@ -1,0 +1,42 @@
+{
+  "identifier": "examples",
+  "tuples": [
+    {
+      "key": "baf1",
+      "kind": "directory",
+      "name": "baf1",
+      "ctime": 1704711797,
+      "mtime": 1704711849,
+      "size": 0,
+      "inode": 1
+    },
+    {
+      "key": "baf1",
+      "kind": "directory",
+      "name": "baf1",
+      "ctime": 0,
+      "mtime": 0,
+      "size": 0,
+      "inode": 0
+    },
+    {
+      "key": "baf2",
+      "kind": "directory",
+      "name": "baf2",
+      "ctime": 1704711941,
+      "mtime": 1704711998,
+      "size": 0,
+      "inode": 7
+    },
+    {
+      "key": "baf2",
+      "kind": "directory",
+      "name": "baf2",
+      "ctime": 0,
+      "mtime": 0,
+      "size": 0,
+      "inode": 0
+    }
+  ],
+  "inode": 0
+}

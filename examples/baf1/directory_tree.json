@@ -1,0 +1,69 @@
+{
+  "identifier": "baf1",
+  "tuples": [
+    {
+      "key": "baf11",
+      "kind": "directory",
+      "name": "baf11",
+      "ctime": 1704718518,
+      "mtime": 1704711891,
+      "size": 0,
+      "inode": 1
+    },
+    {
+      "key": "baf11",
+      "kind": "directory",
+      "name": "baf11",
+      "ctime": 0,
+      "mtime": 0,
+      "size": 0,
+      "inode": 0
+    },
+    {
+      "key": "baf12",
+      "kind": "directory",
+      "name": "baf12",
+      "ctime": 1704718518,
+      "mtime": 1704711818,
+      "size": 0,
+      "inode": 3
+    },
+    {
+      "key": "baf12",
+      "kind": "directory",
+      "name": "baf12",
+      "ctime": 0,
+      "mtime": 0,
+      "size": 0,
+      "inode": 0
+    },
+    {
+      "key": "directory_tree.json",
+      "kind": "file",
+      "name": "directory_tree.json",
+      "ctime": 1704718518,
+      "mtime": 1704712269,
+      "size": 1086,
+      "inode": 4
+    },
+    {
+      "key": "file11.txt.txt",
+      "kind": "file",
+      "name": "file11.txt.txt",
+      "ctime": 1704718518,
+      "mtime": 1704711830,
+      "size": 0,
+      "inode": 5
+    },
+    {
+      "key": "file12.txt.txt",
+      "kind": "file",
+      "name": "file12.txt.txt",
+      "ctime": 1704718518,
+      "mtime": 1704711846,
+      "size": 0,
+      "inode": 6
+    }
+  ],
+  "inode": 0
+}
